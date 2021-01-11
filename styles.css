@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+    background-image: url("https://i.pinimg.com/originals/fb/22/c3/fb22c3a67b731ba166d107d29b605405.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 700px;
+}
+
+.pic1 {
+    width: 300px;
+    position: absolute;
+    right: 0%;
+    border-radius: 50%;
+}
+
+.audio {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    right: 55%;
+}
+
+.pic2 {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.name {
+    font-family: 'Stalinist One', cursive;
+    color: #ff9900;
+    text-align: center;
+    font-size: 40px;
+    padding: 3px;
+}
+
+.head {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.head2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+.writing {
+    font-family: 'Goldman', cursive;
+    color: #97e5e8;
+    text-align: center;
+
+}
+
+.list {
+    font-family: 'Goldman', cursive;
+    color: #97e5e8;
+}
+
+.sparkle1 {
+    position: absolute;
+}
+
+.sparkle2 {
+    position: absolute;
+    right: 0%;
+}
+
+.pika {
+    width:450px;
+    position: absolute;
+    right: 35%;
+    border-radius:50%;
+}
